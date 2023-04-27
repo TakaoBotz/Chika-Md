@@ -39,7 +39,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6281216780766)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -68,21 +68,21 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
-global.botname = 'Chika-Md'
-global.footer = 'RIY'
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.owner = ['6281216780766','6281216780766','6281216780766']
+global.premium = ['6281216780766']
+global.ownernomer = '6281216780766'
+global.ownername = 'Myuki'
+global.botname = 'Takao'
+global.footer = 'Myuki'
+global.youtube = 'https://youtube.com/@yoshito_'
+global.ig = 'gaada'
+global.mygc = 'https://chat.whatsapp.com/D5y3PKmX9I8KCYzedmo3ug'
+global.myweb = 'gaada'
+global.email = 'gaada'
 global.region = 'indonesia'
-global.packname = '© Chika-Md'
-global.author = 'RIY'
-global.sessionName = 'chika'
+global.packname = '© Takao'
+global.author = 'Myuki'
+global.sessionName = 'Myuki'
 ```
 
 ## ```HOW TO DEPLOY```
@@ -96,17 +96,13 @@ global.sessionName = 'chika'
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Dana](https://wa.me/6281216780766?text=Bang+mau+donasi)
+- [Gopay](https://wa.me/6281216780766?text=Bang+mau+donasi)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw)
-- [Group 2](https://chat.whatsapp.com/L3l8lpRa7SD9eLC58YAa0i)
-- [Group 3](https://chat.whatsapp.com/LQO7wLJ5SY0E5fPsa7jaL8)
+- [Group 1]()
+- [Group 2]()
+- [Group 3]
 
 # Thanks to
-- [Dika](https://github.com/DikaArdnt) <br> 
-- [Fatih](https://github.com/FatihArridho) <br> 
-- [Zeeone](https://github.com/zeeone-ofc) <br> 
-- [Yoga](https://github.com/YogGanz) <br> 
-- [Riy](https://github.com/riychdwayne) <br> 
+- [Myuki]() <br> 
